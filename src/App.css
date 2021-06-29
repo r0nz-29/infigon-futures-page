@@ -1,0 +1,11 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #2f3778;
+}
+
+.App {
+	display: flex;
+	flex-direction: column;
+
+}

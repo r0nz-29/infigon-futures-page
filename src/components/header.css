@@ -1,0 +1,27 @@
+header {
+	display: flex;
+	height: 70px;
+	padding: 16px;
+	background-color: #ededec;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+header img {
+	margin-left: 5%;
+	cursor: pointer;
+}
+
+@media (max-width: 800px) {
+	header {
+	height: 40px;
+	padding: 16px;
+	background-color: #ededec;
+	flex-direction: row;
+	justify-content: space-between;
+	}
+	header img {
+	margin-left: 0;
+	cursor: pointer;
+}
+}
