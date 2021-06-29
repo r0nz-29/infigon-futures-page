@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/infigon-futures-page/static/css/main.43b58a6c.chunk.css",
+    "main.js": "/infigon-futures-page/static/js/main.9678b400.chunk.js",
+    "main.js.map": "/infigon-futures-page/static/js/main.9678b400.chunk.js.map",
+    "runtime-main.js": "/infigon-futures-page/static/js/runtime-main.22687b46.js",
+    "runtime-main.js.map": "/infigon-futures-page/static/js/runtime-main.22687b46.js.map",
+    "static/js/2.b05a3622.chunk.js": "/infigon-futures-page/static/js/2.b05a3622.chunk.js",
+    "static/js/2.b05a3622.chunk.js.map": "/infigon-futures-page/static/js/2.b05a3622.chunk.js.map",
+    "index.html": "/infigon-futures-page/index.html",
+    "static/css/main.43b58a6c.chunk.css.map": "/infigon-futures-page/static/css/main.43b58a6c.chunk.css.map",
+    "static/js/2.b05a3622.chunk.js.LICENSE.txt": "/infigon-futures-page/static/js/2.b05a3622.chunk.js.LICENSE.txt",
+    "static/media/showcase.c9fa8f8b.svg": "/infigon-futures-page/static/media/showcase.c9fa8f8b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22687b46.js",
+    "static/js/2.b05a3622.chunk.js",
+    "static/css/main.43b58a6c.chunk.css",
+    "static/js/main.9678b400.chunk.js"
+  ]
+}
